@@ -6,8 +6,8 @@ Steps to run the project follow below steps
 
 Usage of below files
 
-src/index.ts => main file and contains all business logic
-src/constants.ts => contains all the configuration of project
-src/randomGenerator.ts => Random name generation for order creation
-src/orders.ts => JSON for order creation
-src/fields.ts => contains column names to be included in CSV
+1) src/index.ts => main file and contains all business logic
+2) src/constants.ts => contains all the configuration of project
+3) src/randomGenerator.ts => Random name generation for order creation
+4) src/orders.ts => JSON for order creation
+5) src/fields.ts => contains column names to be included in CSV
